@@ -11,7 +11,7 @@ public class RunProgram extends JFrame {
 
 	public RunProgram() {
 
-		setTitle("GUI Project"); // 프레임 이름
+		setTitle("GUI button"); // 프레임 이름
 		setSize(Main.SCREEEN_WIDTH, Main.SCREEEN_HIGHT); // 창크기
 		setResizable(false); // 창 크기 재설정 금지
 		setLocationRelativeTo(null); // 모니터 가운데 뜨기
